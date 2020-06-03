@@ -1,3 +1,3 @@
 # Intelligent Alert System for Forest Tribal People
-<img src="output.gif">
+<img src="output_vdo.gif">
 
